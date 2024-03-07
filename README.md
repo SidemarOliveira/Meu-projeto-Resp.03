@@ -11,5 +11,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <br>
-<img src="https://github.com/SidemarOliveira/Meu-projeto-Resp.03/blob/main/assetes/figura%201.png" height="700">
-
+ <div align="center">
+ <img src="https://github.com/SidemarOliveira/Meu-projeto-Resp.03/blob/main/assetes/figura%201.png" height="800">
+</div>
+ <div align="center">
+ <img src="https://github.com/SidemarOliveira/Meu-projeto-Resp.03/blob/main/assetes/figura%202.png"  height="500"> 
+ </div>
